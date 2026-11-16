@@ -16,6 +16,10 @@
 - Send links from your browser with the optional **Send to DLX** extension.
 - Switch between English and right-to-left Persian, customize the appearance, and update from within the app.
 
+## Supported sites and services
+
+Paste links from **YouTube, Instagram, TikTok, Spotify, Twitch, SoundCloud, Vimeo, and X (Twitter)**, among others. For Spotify links, DLX finds matching tracks on YouTube and downloads the audio from there.
+
 ## Quick start
 
 1. Open the [latest release](https://github.com/X314S/DLX/releases/latest) and download `DLX-v*.zip` under **Assets**.
@@ -28,5 +32,9 @@
 Open **Settings → Extension** for browser integration and setup instructions. When reporting a problem, include the DLX version, Windows version, and steps to reproduce it. Remove cookies and account information from any logs you share.
 
 [Report an issue](https://github.com/X314S/DLX/issues)
+
+## DLX on Telegram
+
+[Join the X314S Telegram channel](https://t.me/X314S) for DLX news, new releases, and update announcements.
 
 Built by [X314S](https://github.com/X314S).
