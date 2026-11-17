@@ -7,18 +7,22 @@
 </p>
 <p align="center"><a href="https://github.com/X314S/DLX/releases/latest"><strong>Download latest release</strong></a> · <a href="https://github.com/X314S/DLX/releases">All releases</a> · <a href="README.fa.md">فارسی</a></p>
 
+## Download from YouTube, Instagram, TikTok, and more
+
+Paste links from **YouTube, Instagram, TikTok, Spotify, Twitch, SoundCloud, Vimeo, and X (Twitter)**, among others. For Spotify links, DLX finds matching tracks on YouTube and downloads the audio from there.
+
+DLX's yt-dlp engine includes over **1,750 extractors**. Some services use multiple extractors for different kinds of links.
+
 ## What DLX can do
 
 - Inspect a link and show the available quality and format options.
 - Download video, audio, or subtitles from supported sources.
-- Queue multiple links and track progress, speed, and download history.
+- Prepare downloads with profiles, bulk link editing, duplicate handling, preflight checks, and playlist selection.
+- Queue downloads, track progress and speed, troubleshoot individual items, and filter or export download history.
+- Keep downloads running in the system tray and use local media tools to convert files or extract audio.
 - Install and manage download engines such as yt-dlp and media tools such as FFmpeg in the app.
 - Send links from your browser with the optional **Send to DLX** extension.
-- Switch between English and right-to-left Persian, customize the appearance, and update from within the app.
-
-## Supported sites and services
-
-Paste links from **YouTube, Instagram, TikTok, Spotify, Twitch, SoundCloud, Vimeo, and X (Twitter)**, among others. For Spotify links, DLX finds matching tracks on YouTube and downloads the audio from there.
+- Switch between English and right-to-left Persian, customize the appearance, and update from within the app with live download progress. View a system report or roll back a download engine when needed.
 
 ## Quick start
 
