@@ -1,0 +1,52 @@
+DLX Freeware License
+Version 1.0 - 23 November 2026
+Copyright (c) 2026 X314S. All rights reserved.
+
+1. Permission
+X314S grants you a non-exclusive, royalty-free permission to download,
+install and use official DLX releases for personal and commercial purposes.
+You may share complete, unmodified official release packages free of charge,
+provided that copyright notices, this license and third-party notices are
+preserved. Commercial use does not grant permission to sell DLX.
+
+2. Ownership
+Rights in DLX's original code, documentation and branding remain with their
+respective owners. Rights not expressly granted here are reserved.
+This license grants no permission to publish private DLX source code,
+distribute modified DLX versions or claim ownership of DLX. Mandatory rights
+under applicable law and rights under third-party licenses are unaffected.
+
+3. Your responsibilities
+You are responsible for how you use DLX and for the content you access,
+download, process or share. Obtain any necessary permissions and comply with
+applicable laws, copyright and privacy rights, and service terms.
+Availability of a feature does not grant permission to access or copy content.
+DLX's author does not endorse unlawful use.
+
+4. No warranty
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DLX IS PROVIDED "AS IS"
+AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. THERE IS NO GUARANTEE OF ERROR-FREE OR UNINTERRUPTED
+OPERATION, DATA PRESERVATION, SECURITY, COMPATIBILITY WITH ANY WEBSITE
+OR SERVICE, OR CONTINUED SUPPORT, UPDATES OR AVAILABILITY.
+
+5. Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR AND COPYRIGHT
+HOLDERS SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING
+FROM OR IN CONNECTION WITH DLX OR ITS USE, INCLUDING LOSS OF DATA, PROFITS,
+ACCOUNT ACCESS, BUSINESS INTERRUPTION OR THIRD-PARTY CLAIMS, WHETHER IN
+CONTRACT, TORT OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY.
+Nothing in this license excludes or limits liability or statutory rights
+that applicable law does not permit to be excluded or limited.
+
+6. Third-party components
+Third-party libraries, fonts, runtimes and download or media engines remain
+subject to their own licenses and notices. This license applies only to
+rights owned by X314S and does not replace or restrict third-party licenses.
+
+7. Language and contact
+LICENSE.fa.md is a Persian translation for convenience. In the event of
+inconsistency, this English text controls to the extent permitted by law.
+For permissions beyond this license, contact X314S through
+https://github.com/X314S/DLX.
