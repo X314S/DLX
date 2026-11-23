@@ -42,3 +42,9 @@ Open **Settings → Extension** for browser integration and setup instructions. 
 [Join the X314S Telegram channel](https://t.me/X314S) for DLX news, new releases, and update announcements.
 
 Built by [X314S](https://github.com/X314S).
+
+## License
+
+DLX is free to use for personal and commercial purposes under the [DLX Freeware License](LICENSE.txt). You may share complete, unmodified official packages free of charge with notices intact. DLX is provided as is, without warranty. Users are responsible for lawful use and content permissions. Liability is limited to the extent permitted by applicable law. Third-party components retain their own licenses.
+
+[متن فارسی مجوز](LICENSE.fa.md)
